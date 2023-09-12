@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+  <!-- This file has been auto-generated from Jenkins-->
+  <!-- It uses the build number as the last part the product version number-->
+  <?define ProductVersion=0.3.93?>
+  <?define VSCCBuild=93?>
+</Include>
